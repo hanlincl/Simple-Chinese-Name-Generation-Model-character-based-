@@ -12,6 +12,7 @@ To evaluate the quality of generated names, three approaches are used:
 This project was conducted as part of the Natural Language Processing course by Thomas Simon Brochhagen at Universitat Pompeu Fabra (UPF) and was first uploaded on March 9th, 2026.
 
 References:
+
 [1]	Hou. C. H. (2023). 近四十年来汉语人名研究综述[A Review of Chinese Personal Name Research in the Past Four Decades] (Master’s Thesis, Sichuan International Studies University). https://doi.org/10.27348/d.cnki.gscwc.2023.000643.
 
 [2]	Karpathy, Andrej. 2023. Let’s Build GPT: From Scratch, in Code, Spelled Out. Online tutorial and code notebook. https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-
